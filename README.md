@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Full Stack Web Development <a href="https://reactjs.org">React</a>, <a href="https://nodejs.org/">Node</a> and <a href="https://www.djangoproject.com/">Django</a>.
 - 📫 Looking for Jr. Developer Job.
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
-- 👨‍💻 JavaScript And Python Dev.
+- 👨‍💻 JavaScript, Java And Python Dev.
 
 <hr />
 <h2>What I'm focusing on 👨‍💻</h2>
