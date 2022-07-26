@@ -1,17 +1,16 @@
 ### Hi there 👋 
 <h1>I'm Nithesh</h1>
-<h2>Graduaion in 2021, Self Taught Learner, Developer </h2>
+<h2>Self Taught Learner, Full Stack Developer </h2>
 
 - 🔭 Working on some personal projects.
-- 🌱 I’m currently learning Full Stack Web Development <a href="https://reactjs.org">React</a>, <a href="https://nodejs.org/">Node</a> and <a href="https://www.djangoproject.com/">Django</a>.
-- 📫 Looking for Jr. Developer Job.
-- 🥅 2021 Goals: Contribute to Open Source projects and Learn new technologies.
-- 👨‍💻 JavaScript, Java And Python Dev.
+- 🌱 I’m currently learning Full Stack Web Development <a href="https://reactjs.org">React</a>, <a href="https://nodejs.org/">Node</a>, Angular and Vue
+- 📫 Full Stack Developer.
+- 🥅 2022 Goals: Contribute to Open Source projects and Learn new technologies.
+- 👨‍💻 JavaScript and Java Dev.
 
 <hr />
 <h2>What I'm focusing on 👨‍💻</h2>
-<h4>Looking For a Jr. Web Developer Job.</h4> 
-<h4>Currently improving my React skills: NextJS and React Native.</h4> 
+<h4>Currently improving my Full Stack skills.</h4> 
 
 <h2>Find me elsewhere 🌎</h2>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
