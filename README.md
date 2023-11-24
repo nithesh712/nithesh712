@@ -1,6 +1,6 @@
 ### Hi there 👋 
 <h1>I'm Nithesh</h1>
-<h2>Self Taught Learner, Full Stack Developer </h2>
+<h2>Self Taught Learner, Software Engineer </h2>
 
 - 🔭 Working as a Software Engineer.
 - 🌱 Full Stack Web Development <a href="https://reactjs.org">React</a>, <a href="https://nodejs.org/">Node</a>, Angular and .Net
