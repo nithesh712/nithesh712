@@ -3,7 +3,7 @@
 <h2>Self Taught Learner, Full Stack Developer </h2>
 
 - 🔭 Working as a Software Engineer.
-- 🌱 Full Stack Web Development <a href="https://reactjs.org">React</a>, <a href="https://nodejs.org/">Node</a>, Angular and Vue
+- 🌱 Full Stack Web Development <a href="https://reactjs.org">React</a>, <a href="https://nodejs.org/">Node</a>, Angular and .Net
 - 📫 Full Stack Developer.
 - 🥅 2024 Goals: Contribute to Open Source projects and Learn new technologies.
 - 👨‍💻 .Net, JavaScript Dev.
