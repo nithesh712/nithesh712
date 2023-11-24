@@ -2,15 +2,15 @@
 <h1>I'm Nithesh</h1>
 <h2>Self Taught Learner, Full Stack Developer </h2>
 
-- 🔭 Working on some personal projects.
-- 🌱 I’m currently learning Full Stack Web Development <a href="https://reactjs.org">React</a>, <a href="https://nodejs.org/">Node</a>, Angular and Vue
+- 🔭 Working as a Software Engineer.
+- 🌱 Full Stack Web Development <a href="https://reactjs.org">React</a>, <a href="https://nodejs.org/">Node</a>, Angular and Vue
 - 📫 Full Stack Developer.
-- 🥅 2022 Goals: Contribute to Open Source projects and Learn new technologies.
-- 👨‍💻 JavaScript and Java Dev.
+- 🥅 2024 Goals: Contribute to Open Source projects and Learn new technologies.
+- 👨‍💻 .Net, JavaScript Dev.
 
 <hr />
 <h2>What I'm focusing on 👨‍💻</h2>
-<h4>Currently improving my Full Stack skills.</h4> 
+<h4>Improving my skills.</h4> 
 
 <h2>Find me elsewhere 🌎</h2>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
